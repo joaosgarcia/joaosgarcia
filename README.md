@@ -1,9 +1,7 @@
 <div align="center">
   <a href="https://github.com/joaosgarcia">
-       <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=joaosgarcia&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-    <br>
-    <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaosgarcia&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosgarcia&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&title_color=48c558&text_color=f2f2f2&icon_color=16c426&bg_color=3C3C3B&border_radius=8&border_color=3C3C3B"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosgarcia&layout=compact&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&title_color=48c558&text_color=f2f2f2&icon_color=16c426&bg_color=3C3C3B&border_radius=8&border_color=3C3C3B "/>
     <br>
     <br>
 
@@ -11,6 +9,7 @@
   </a>
 
 </div>
+
   
   ##
  
